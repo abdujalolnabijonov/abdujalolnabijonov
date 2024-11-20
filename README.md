@@ -24,12 +24,12 @@
  <br /> 
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdujalolAndy/AbdujalolAndy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdujalolAndy/AbdujalolAndy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdujalolAndy/AbdujalolAndy/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdujalolNabijonov/AbdujalolAndy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdujalolNabijonov/AbdujalolAndy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbdujalolNabijonov/AbdujalolAndy/output/github-contribution-grid-snake.svg">
 </picture>
 <br/>
-<img src='https://github-readme-stats.vercel.app/api?username=AbdujalolAndy&show_icons=true&theme=radical'/>
+<img src='https://github-readme-stats.vercel.app/api?username=AbdujalolNabijonov&show_icons=true&theme=radical'/>
 <!---
 AbdujalolAndy/AbdujalolAndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
