@@ -45,8 +45,8 @@
 </picture>
 <br/>
 <p style="margin-top:40px">
-<img src='https://github-readme-stats.vercel.app/api?username=AbdujalolNabijonov&show_icons=true&theme=radical'/>
-<img width="48%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalolNabijonov&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />
+<img width="40%" src='https://github-readme-stats.vercel.app/api?username=AbdujalolNabijonov&show_icons=true&theme=radical'/>
+<img width="40%" alt="Mahesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdujalolNabijonov&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=false&bg_color=0D1117" />
 </p>
 <!---
 AbdujalolAndy/AbdujalolAndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
