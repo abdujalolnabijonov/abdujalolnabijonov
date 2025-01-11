@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Abdujalol+Nabijonov;Andy+for+sure+:)&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I’m+Abdujalol+Nabijonov;Alex+for+sure+:)&color=cyan&center=true" />
 </div>
 <!-- <img align="center" src="https://pbs.twimg.com/profile_banners/1951820972/1611850287/1080x360" /> -->
 <img  src="https://img.shields.io/youtube/channel/subscribers/UCBI6_Pnm_tBbcRiRGjXLl3w?label=SUBSCRIBERS&logo=Youtube&style=for-the-badge"/>
@@ -15,7 +15,7 @@
 
 
  <br  />
- <p style="margin-top:30px">
+ <div style="margin-top:30px; background-color:white; height:200px">
  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/> 
  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50"> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50"> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50"/>
@@ -24,18 +24,31 @@
  <img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="Material UI" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="50"/>
- <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="50">
- <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/apollostack.svg" alt="Apollo" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="50">
  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="50">
- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50"> <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/>
- <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50"/>
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" width="50">
+ <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/>
+ <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="50"> 
+ <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="50"/>
  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/>
- </p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50"/>
+ </div>
  <br /> 
  
 <picture>
